@@ -4,7 +4,7 @@ The project measures ambient temperature using a sensor and provides a visual LE
 
 # 📌 Tinkercad Scheme
 🔗 Project Simulation:
-https://www.tinkercad.com/things/ba6HhKFqk7d-mini-temperature-station
+https://www.tinkercad.com/things/7KlkHaxx20c-tmp36-temperature-sensor-with-arduino
 
 The Tinkercad circuit includes wiring, components, and an Arduino Uno running the temperature‑alert code.
 
