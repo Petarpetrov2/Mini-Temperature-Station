@@ -1,14 +1,14 @@
-# 🌡️ Mini Temperature Station
+# Mini Temperature Station
 A simple and affordable temperature‑monitoring system designed for small greenhouses or indoor environments.
 The project measures ambient temperature using a sensor and provides a visual LED alert when the temperature reaches a dangerous threshold.
 
-# 📌 Tinkercad Scheme
+# Tinkercad Scheme
 🔗 Project Simulation:
 https://www.tinkercad.com/things/7KlkHaxx20c-tmp36-temperature-sensor-with-arduino
 
 The Tinkercad circuit includes wiring, components, and an Arduino Uno running the temperature‑alert code.
 
-# 📦 Components Used
+# Components Used
 This project consists of the following hardware:
 | Component                                 | Quantity | Description                                         |
 | ----------------------------------------- | -------- | --------------------------------------------------- |
@@ -19,7 +19,7 @@ This project consists of the following hardware:
 | **Temperature Sensor (TMP36 or similar)** | 1        | Measures ambient temperature                        |
 | **Jumper Wires**                          | 8        | For connections between Arduino and breadboard      |
 
-# 💡 Features
+# Features
 ✔ Measures temperature in real time
 
 ✔ Displays safe, warning, or danger levels via LEDs
@@ -30,7 +30,7 @@ This project consists of the following hardware:
 
 ✔ Ready for expansion (LCD, buzzer, WiFi, etc.)
 
-# 🧪 How It Works
+# How It Works
 The Arduino reads analog values from the temperature sensor, converts them into degrees Celsius, and activates LEDs based on thresholds:
 
 🟢 Green LED: Normal temperature
