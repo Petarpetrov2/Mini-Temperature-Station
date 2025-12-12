@@ -35,6 +35,6 @@ The Arduino reads analog values from the temperature sensor, converts them into 
 
 🟢 Green LED: Normal temperature
 
-🟡 Yellow LED: Slightly elevated temperature
+🟡 Yellow LED: Slightly lowered temperature
 
-🔴 Red LED: Dangerous temperature (alert)
+🔴 Red LED: Dangerously low temperature (alert)
