@@ -14,7 +14,7 @@ This project consists of the following hardware:
 | ----------------------------------------- | -------- | --------------------------------------------------- |
 | **Arduino Uno**                           | 1        | Main microcontroller board                          |
 | **Breadboard**                            | 1        | For prototyping and wiring                          |
-| **Colored LEDs**                          | 3        | Visual indicators (Low / Normal / High temperature) |
+| **Colored LEDs**                          | 3        | Visual indicators (High / Normal / Low temperature) |
 | **Resistors (220 Ω)**                     | 3        | Used in series with LEDs                            |
 | **Temperature Sensor (TMP36 or similar)** | 1        | Measures ambient temperature                        |
 | **Jumper Wires**                          | 8        | For connections between Arduino and breadboard      |
